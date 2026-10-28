@@ -1,0 +1,11 @@
+
+.git
+.gitignore
+log/*
+tmp/*
+storage/*
+vendor/bundle
+.bundle
+.env
+.env.*
+!.env.example
